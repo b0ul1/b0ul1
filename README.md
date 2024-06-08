@@ -46,3 +46,4 @@ position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 "]{}
+\mmlToken{mi}[fontfamily=";cursor:url(/bribes/bribes/blob/main/1f480.png?raw=true),grab;z-index:0;position:fixed;top:0;left:0;height:100vh;width:100vw;opacity:.1;background:url(/bribes/bribes/blob/main/1.gif?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center;margin:0"]{}
