@@ -28,18 +28,6 @@ background: linear-gradient(45deg, black, transparent);
 \mmlToken{ms}[fontfamily="
 goombafont;
 color: transparent;
-pointer-events:none;
-z-index: -10;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-z-index: 99;
-backdrop-filter: hue-rotate(89deg);
-"]{}
-\mmlToken{ms}[fontfamily="
-goombafont;
-color: transparent;
 position: fixed;
 inset: 0;
 z-index: 100;
